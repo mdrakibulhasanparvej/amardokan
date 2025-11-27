@@ -4,7 +4,7 @@ A modern, full-stack e-commerce website built with **Next.js**, **MongoDB**, **N
 
 ---
 
-## **Live Demo:** [https://next-shop-client-alpha.vercel.app](https://next-shop-client-alpha.vercel.app)
+## **Live Demo:** [https://amardokan-ten.vercel.app/](https://amardokan-ten.vercel.app/)
 
 ## Features
 
